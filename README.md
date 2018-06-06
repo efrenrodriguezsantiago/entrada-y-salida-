@@ -26,7 +26,7 @@ int main(){
 	
 	cout<<"\nla edad es:"<<edad; //aqui imprimira la edad
 	cout<<"\nel sexo es:"<<sexo;  //la funcion sera imprimir el sexo
-	cout<<"\nla estatura es:"<<estatura;  //imprimira lo que es la estatura
+	cout<<"\nla estatura es:"<<estatura;  //imprimira lo que es la estatura...
 		
 	
 	
